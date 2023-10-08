@@ -5,7 +5,7 @@ Este proyecto forma parte del módulo de *Machine Learning* del curso de *Data S
 ## Integrantes del equipo
 * Cristina Basulto
 * Gamaliel Naranjo
-* Hugo
+* Víctor Hugo Pérez Núñez
 * José Carlos Barreras Maldonado
 * Ricardo Iván Carpio Fragoso
 
