@@ -50,13 +50,9 @@ subgraph sg1[1. Obtención de los datos]
 end
 ```
 
-### Planteamiento del problema 
+## 1. Obtención de los datos
 
-Las enfermedades cardiovasculares o ECVs constituyen un desafío de salud global, siendo la principal causa de muerte en todo el mundo. Estas enfermedades engloban una variedad de trastornos cardíacos y vasculares, incluyendo cardiopatías coronarias y accidentes cerebrovasculares. Las ECVs son responsables de un alto número de defunciones prematuras, afectando tanto a hombres como a mujeres.
+Este proyecto se enfoca en el uso de un conjunto de datos que combina información de 918 pacientes con y sin ECVs. Los datos contienen 11 variables relacionadas con la salud de los pacientes, incluyendo edad, sexo, niveles de colesterol, resultados de electrocardiogramas, frecuencia cardíaca máxima, entre otros.
 
-El problema principal que este proyecto de aprendizaje automático aborda es la necesidad de contar con un método de diagnóstico temprano y preciso para las ECVs. Un diagnóstico oportuno puede marcar la diferencia en el tratamiento y la supervivencia de los pacientes. Sin embargo, en muchos casos, los síntomas pueden ser sutiles o incluso estar ausentes, lo que dificulta la detección temprana mediante métodos convencionales.
 
-El proyecto busca aprovechar el potencial de las redes neuronales artificiales para analizar una amplia gama de datos de pacientes, incluyendo factores como edad, sexo, niveles de colesterol, presión arterial y más, con el objetivo de identificar patrones y relaciones que puedan utilizarse para predecir la presencia de ECVs de manera precisa.
-
-### 
 
