@@ -50,9 +50,19 @@ subgraph sg1[1. Obtención de los datos]
 end
 ```
 
-## 1. Obtención de los datos
+## 1. Base de datos
 
-Este proyecto se enfoca en el uso de un conjunto de datos que combina información de 918 pacientes con y sin ECVs. Los datos contienen 11 variables relacionadas con la salud de los pacientes, incluyendo edad, sexo, niveles de colesterol, resultados de electrocardiogramas, frecuencia cardíaca máxima, entre otros.
+La base de datos proviende del sitio de Kaggle (https://www.kaggle.com). Este proyecto se enfoca en el uso de un conjunto de datos que combina información de 918 pacientes con y sin ECVs. Los datos contienen la varaible dependiente Enfermedad cardiaca (HeartDisease) y 11 variables explicativas relacionadas con la salud de los pacientes: Edad del paciente (Age), Género del paciente (Sex), Tipo de dolor en el pecho (ChestPainType), Presión arterial en reposo (RestingBP), Colesterol sérico (Cholesterol), Nivel de azúcar en la sangre en ayunas (FastingBS), Actividad eléctrica del corazón (ECG o electrocardiograma) en reposo (RestingECG), Frecuencia cardiaca máxima (MaxHR), Dolor en el pecho al ejercitarse (ExerciseAngina), Valor numérico de depresión (ST) inducido por el ejercicio relacionado al reposo (Oldpeak) y Pendiente del segmento ST en ejercicio máximo (ST_Slope).
+
+
+
+
+
+
+
+
+
+
 
 
 
