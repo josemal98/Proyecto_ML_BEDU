@@ -1,17 +1,17 @@
 # Diagnóstico de enfermedad cardiaca a partir de variables fisiológicas utilizando redes neuronales
 
-Este proyecto forma parte del módulo de *Machine Learning* del curso de *Data Scientist* de BEDU 2023. El objetivo principal es aplicar las distintas herramientas vistas hasta ahora en el curso para el entrenamiento y validación de un modelo de inteligencia artificial, empleando una base de datos de nuestra elección. 
+Este proyecto forma parte del módulo de *Machine Learning* del curso Data Science, Programa de Becas Santander Tecnología | Talento Digital para el Futuro | Bedu 2023. El objetivo principal elaborar un modelo de Machine Learning de redes neuronales para diagnóstico temprano de enfermedades cardiovasculares (ECVs).
 
 ## Integrantes del equipo
-* Cristina Basulto Avila
+* José Carlos Barreras Maldonado
+* Cristina Basulto Ávila
+* Ricardo Iván Carpio Fragoso
 * Gamaliel Osvaldo Naranjo Bernal
 * Víctor Hugo Pérez Núñez
-* José Carlos Barreras Maldonado
-* Ricardo Iván Carpio Fragoso
 
 ## Descripción del proyecto 
 
-Este proyecto tiene como objetivo fundamental desarrollar un modelo de inteligencia artificial basado en redes neuronales tipo perceptrón multicapa para la detección temprana de enfermedades cardiovasculares (ECVs). Dado que las ECVs representan una de las principales causas de mortalidad en todo el mundo, contar con una herramienta precisa y eficaz es esencial para favorecer un diagnóstico temprano. La aplicación exitosa de este modelo tiene el potencial de mejorar las tasas de supervivencia y la calidad de vida de los pacientes, al permitir intervenciones médicas oportunas. 
+Este proyecto tiene como objetivo fundamental desarrollar un modelo de Machine Learning basado en redes neuronales tipo perceptrón multicapa para la detección temprana de enfermedades cardiovasculares (ECVs). Dado que las ECVs representan una de las principales causas de mortalidad en todo el mundo, contar con una herramienta precisa y eficaz es esencial para favorecer un diagnóstico temprano. La aplicación exitosa de este modelo tiene el potencial de mejorar las tasas de supervivencia y la calidad de vida de los pacientes, al permitir intervenciones médicas oportunas. 
 
 El proyecto se divide en 5 etapas fundamentales:
 
